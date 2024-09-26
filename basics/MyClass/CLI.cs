@@ -8,6 +8,16 @@ namespace MyClass {
             Console.Write(message);
         }
 
+        public static void print(char message)
+        {
+            Console.Write(message);
+        }
+
+        public static void print(int message)
+        {
+            Console.Write(message);
+        }
+
         public static string getLine(string message)
         {
             print(message);

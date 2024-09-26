@@ -35,5 +35,13 @@ namespace MyClass.Arrays {
 
             CLI.print("]\n");
         }
+
+        public int getElemByIndex(int index) {
+            if(index >= 0 && index < size) {
+                return simple[index];
+            }
+
+            return -1;
+        }
     }
 }

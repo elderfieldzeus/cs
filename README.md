@@ -23,6 +23,10 @@ dotnet run
 - .NET Extension Pack
 - .NET Install Tool
 - Nuget Gallery
+    - Microsoft.EntityFrameworkCore
+    - Microsoft.EntityFrameworkCore.SQLServer
+    - Microsoft.EntityFrameworkCore.Tools
+    - Microsoft.EntityFrameworkCore.Design
 - Prettier
 - C# Extensions by JosKreativ
 
